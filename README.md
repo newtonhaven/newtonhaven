@@ -5,11 +5,11 @@
 
 <h3 align="left">About me:</h3>
 
-  Hello There!  ~~'General Ken...'~~ I'm Sami Aktuğ, a software engineer always excited to dive into new technologies and keep up with the latest trends. Learning and trying new things is a huge passion of mine, and I'm constantly looking for ways to improve my skills.
+  __Hello There!__  ~~'General Ken...'~~ I'm Sami Aktuğ, a __Software Engineer__ always excited to dive into new technologies and keep up with the latest trends. Learning and trying new things is a huge passion of mine, and I'm constantly looking for ways to improve my skills.
 
 -  Personal Website: ~~**[samiaktug.dev](https://samiaktug.dev/)**~~ under redevelopment, unfortunately old site is not accessible due to host expired.
 
--  I’m currently learning **Laravel**
+-  I’m currently learning __Laravel__
 
 
 <p align="center">
