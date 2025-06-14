@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-  __Hello There!__  ~~'General Ken...'~~ I'm Sami Aktuğ, a __Software Engineer__ always excited to dive into new technologies and keep up with the latest trends. Learning and trying new things is a huge passion of mine, and I'm constantly looking for ways to improve my skills.
+  __Hello There!__  ~~'General Ken...'~~ I'm Sami, a __Software Engineer__ always excited to dive into new technologies and keep up with the latest trends. Learning and trying new things is a huge passion of mine, and I'm constantly looking for ways to improve my skills.
 
 -  <h3>Personal Website: <a href="https://samiaktug.dev">samiaktug.dev</a></h3>
 
