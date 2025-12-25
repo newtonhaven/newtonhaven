@@ -7,7 +7,7 @@
 
   __Hello There!__  ~~'General Ken...'~~ I'm Sami, a __Software Engineer__.
 
-My core specializations are __AR/VR/MR__ and __Computer Vision__ beside these I have familiarity with __Backend API Development__ and __Data & AI__ . Als always excited to dive into new technologies and keep up with the latest trends. 
+My core specializations are __AR/VR/MR__ and __Computer Vision__ beside these I have familiarity with __Backend API Development__ and __Data & AI__. Also always excited to dive into new technologies and keep up with the latest trends. 
 <!-- specializations/key technical strengths/primary domains -->
 * <h4>For more info you can visit my Personal Website from yellow badge.</h3>
 
